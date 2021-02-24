@@ -48,3 +48,11 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
 }
+
+.filme_principal .descrisao{
+    margin-bottom: 40px;
+}
+
+.titulo {
+    font-size: 40px;
+}
