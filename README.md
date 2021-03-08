@@ -5,7 +5,7 @@
 <br>
 <br>
 <br>
-<img src='hhttps://github.com/kamalcwb/Netflix-Interace/blob/main/img/interface_netflix.jpg'>
+<img src='https://github.com/kamalcwb/Netflix-Interace/blob/main/img/interface_netflix.jpg'>
 <br>
 <br>
 <br>
